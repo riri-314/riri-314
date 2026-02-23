@@ -42,11 +42,11 @@ I enjoy collaborating with others, but I’m also fully comfortable working inde
 
 # 🚀 Some of My Work
 
-## 🌐 quizaine.org
+## 🌐 quinzaine.org
 Personal web project(s) and experimentation platform.  
 Focused on clean UI, structured architecture, and iterative product development.
 
-🔗 https://quizaine.org
+🔗 https://quinzaine.org
 
 ---
 
