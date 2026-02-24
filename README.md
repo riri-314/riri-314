@@ -5,7 +5,7 @@ GitHub will display this README on your profile.
 
 <div align="center">
 
-# Hi, I'm riri 👋  
+# Hi, I'm Henri 👋  
 **Computer Science (MSc) @ UCLouvain — Network Systems & Cybersecurity**  
 🎓 Thesis in progress · **Graduating June 2026** · ✅ **Open to work (available before graduation)**
 
@@ -45,14 +45,15 @@ I enjoy collaborating with others, but I’m also fully comfortable working inde
 ## 🌐 quizaine.org
 Personal web project(s) and experimentation platform.  
 Focused on clean UI, structured architecture, and iterative product development.
+The repo is private for now as it contain sensible data.
 
 🔗 https://quizaine.org
 
 ---
 
-## 🖥️ Point of Sale & Inventory Management System (Private Project)
+## 🖥️ quinzaine.org, admin pannel (Private Project)
 
-A full-featured **Point of Sale (POS) and inventory management platform**, actively used in a real business environment.
+A full-featured **Point of Sale (POS) and inventory management platform**, actively used in a real business environment. The website and Git repository are currently private, as they contain sensitive data.
 
 ### Features:
 - Point of Sale system for daily operations  
@@ -67,13 +68,29 @@ These tools are used every day and allow customers to be informed about the prod
 
 📸 *Screenshots available below.*
 
-comming soon !
+Example:
+<img src="images/POS_stat_redacted.png" width="800"/>
+<img src="images/POS_stock.png" width="800"/>
+<img src="images/POS_scanner.png" width="800"/>
 
-<!-- Example:
-<img src="images/pos-dashboard.png" width="800"/>
--->
 
 ---
+## 🌐 Student quizz
+This is a web app that provides quizzes for students. The goal of the website is to teach students how to party responsibly, with respect for themselves and others. It mainly covers sexual education and safe drinking. I was paid to develop this website.
+
+🔗 https://sante-66741.web.app/
+
+📦 https://github.com/riri-314/quizz-guindaille2.0
+
+---
+## 🍻 Mercatos GCL
+This web app is a game designed for student associations. Its purpose is to encourage exchanges between associations so students can better discover each other and build connections. It is a fun game created to strengthen bonds between different student associations across various fields of study.
+
+I built this website using React and TypeScript. For the backend, I used Firebase services, including Cloud Functions, Hosting, and Firestore.
+
+🔗 https://mercatogcl.be/
+
+📦 https://github.com/riri-314/mercatosGCL
 
 ## Tech stack (comfort zone)
 
@@ -87,64 +104,17 @@ comming soon !
 - Git/GitHub, documentation, iterative delivery
 
 ---
-# 🧠 Programming Languages & Technologies
 
-## 💻 Core Programming Languages
+JS · TS · Python · Java · C · Rust (learning) · Bash · Oz  
+React · HTML/CSS · Flask · Firebase (auth, hosting, storage, functions, ...)  
+SQL (PostgreSQL, MySQL)  
+AWS · Azure · Git · GitHub
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,rust,bash" />
-</p>
+Built and used in real production projects (POS & inventory systems).
 
-- JavaScript  
-- TypeScript  
-- Python  
-- Java  
-- C  
-- Rust (currently learning)  
-- Bash  
-- Oz  
+## Soft skills
 
----
-
-## 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,flask,firebase" />
-</p>
-
-- React  
-- HTML / CSS  
-- Flask  
-- Firebase  
-
----
-
-## 🗄 Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-- SQL (relational databases)  
-- Database schema design  
-- Query optimization  
-
----
-
-## ☁️ Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,github" />
-</p>
-
-- AWS  
-- Azure  
-- Git / GitHub  
-
----
-
-> All of the above have been used in concrete projects, including production-level tools such as a POS and inventory management system.
----
+Responsible for organizing a biennial event generating over €100,000 in sales. Managed a team of 5 to 15 people and coordinated with around 20 collaborators and suppliers.
 
 ## Open to opportunities
 
@@ -160,7 +130,6 @@ If you’re building something in **cybersecurity**, **networking**, or **web pl
 
 ### Let’s connect
 <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> ·
-<a href="https://quizaine.org" target="_blank">quizaine.org</a> ·
 <a href="mailto:your@email.com">Email</a>
 
 </div>
